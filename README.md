@@ -1,3 +1,4 @@
-# 69admins.com
+**Coming Soon!**
+================
 
-A work-in-progress that should result in a site that will become visible online soon enough.
+*A new website whenever we figure out what we screwed up with Jekyll this time...*
