@@ -1,4 +1,4 @@
-**Coming Soon!**
+69Admins
 ================
 
-*A new website whenever we figure out what we screwed up with Jekyll this time...*
+This is a work-in-progress experimentation site.  Check back for further details.
