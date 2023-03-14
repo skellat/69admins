@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Beginning Anew"
-date:   2023-03-04 23:34:00 -0500
+title:  "Welcome to the Program"
+date:   2023-03-14 17:19:00 -0500
 categories: initialization
 ---
-This is a site for experimentation.  What is the experiment?  Time will tell.  Hosting for this site is provided by GitHub Pages.
+A podcast trailer will be posted shortly.

@@ -4,18 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Stephen Michael Kellat maintains this site.  
+69 Admins is the podcast bringing you the story of cord-cutting from a rural perspective.  Is it just as easy to cut the cord on cable television in rural America and switch to streaming?  Are there pitfalls to watch out for?  This program will discuss them and provide insight to help you enjoy streaming outside the urban and suburban settings.
 
-Financial support and patronage for Stephen's creative endeavors can be provided via [Liberapay](https://liberapay.com/smkellat) and [Ko-Fi](https://ko-fi.com/smkellat).
+This program is presented by Stephen Michael Kellat.  Stephen is the owner of Erie Looking Productions, a boutique media arts consultancy based in Ashtabula, Ohio.  He has been involved in various capacities in podcast production, production for radio, and video production since 2008.  He holds a master's degree in library science from Clarion University of Pennsylvania.
 
-Monitoring Main Mission, Stephen's blog, can be found at <https://kellat.me/>.
-
-The ELP Television experimentation site can be found at <https://coyote.works/>.  
-
-You can find Erie Looking Productions online at <https://erielookingproductions.info/>.  
-
-To bring forward and adapt a disclaimer previously made elsewhere:  
-
->*All views expressed herein are solely my own.  I do not speak officially on behalf of any governmental or academic institution through this site.  I do not speak officially on behalf of any software project through this site.  Reader discretion is encouraged.*  
-
-This blog is maintained [using GitHub](https://github.com/skellat/69admins) and patches may be submitted for consideration.  Patches may be subject to summary closure, though.
+Production services on this program are provided by the crew at Erie Looking Productions.  To find out more visit their website at <https://erielookingproductions.info>.

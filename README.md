@@ -1,4 +1,4 @@
-69Admins
+69 Admins
 ================
 
-This is a work-in-progress experimentation site.  Check back for further details.
+This is the website for the 69 Admins podcast.
