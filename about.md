@@ -9,3 +9,5 @@ permalink: /about/
 This program is presented by Stephen Michael Kellat.  Stephen is the owner of Erie Looking Productions, a boutique media arts consultancy based in Ashtabula, Ohio.  He has been involved in various capacities in podcast production, production for radio, and video production since 2008.  He holds a master's degree in library science from Clarion University of Pennsylvania.
 
 Production services on this program are provided by the crew at Erie Looking Productions.  To find out more visit their website at <https://erielookingproductions.info>.
+
+The site is maintained via GitHub at <https://github.com/skellat/69admins>.
