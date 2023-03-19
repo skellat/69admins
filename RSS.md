@@ -4,6 +4,6 @@ title: RSS
 permalink: /subscribe/
 ---
 
-We support using RSS to follow this site.  Feel free to [subscribe via RSS]({{site.baseurl}}/feed.xml) in your feed reader.  Don't have a feed reader?  We strongly suggest using great tools like [Newsboat](https://newsboat.org/), [NetNewsWire](https://netnewswire.com/), and [Thunderbird](https://www.thunderbird.net/).  Other tools out there that you might be able to locate that could be great, too.
+We support using RSS to follow this site.  Feel free to [subscribe to the site itself via RSS]({{site.baseurl}}/feed.xml) in your feed reader.  Don't have a feed reader?  We strongly suggest using great tools like [Newsboat](https://newsboat.org/), [NetNewsWire](https://netnewswire.com/), and [Thunderbird](https://www.thunderbird.net/).  Other tools out there that you might be able to locate that could be great, too.
 
-Follow the instructions in show posts to directly subscribe to the podcast in Apple Podcasts, AnntenaPod, or whatever podcast platform you fancy.
+You can listen to us via [Spotify](https://open.spotify.com/show/5uqhIwH6LATsLg5UPGiVju), [Apple Podcasts](https://podcasts.apple.com/us/podcast/69-admins/id1677957335), [iHeart Podcasts](https://www.iheart.com/podcast/269-69-admins-110944673/), and [through RSS in whatever podcast client you choose](https://feeds.acast.com/public/shows/6410a80dec813e00110faed2).
