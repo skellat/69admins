@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Episode 2"
+date:   2023-04-29 21:20:00 -0400
+categories: podcast
+---
+In the second proper episode of 69 Admins, we talk about what you need in terms of equipment and network connections to enjoy streaming television.  The next episode will be released on May 13th.
+
+Links:  
+Simple English Wikipedia on Roku <https://simple.wikipedia.org/w/index.php?title=Roku&oldid=7951068>    
+Simple English Wikipedia on Amazon Fire <https://simple.wikipedia.org/w/index.php?title=Amazon_Fire_TV&oldid=8785322>  
+Simple English Wikipedia on Apple TV <https://simple.wikipedia.org/w/index.php?title=Apple_TV&oldid=8766920>  
+English Wikipedia on Samsung Galaxy Z Fold 4 <https://en.wikipedia.org/w/index.php?title=Samsung_Galaxy_Z_Fold_4&oldid=1151075264>  
+HughesNet <https://www.hughesnet.com>  
+Starlink <https://www.starlink.com>  
+PCMag (2019): FCC Finds T-Mobile, Verizon, US Cellular Overstated Rural Coverage <https://www.pcmag.com/news/fcc-finds-t-mobile-verizon-us-cellular-overstated-rural-coverage>  
+Wired (2019): Rural America's Future Is Riding on a Cell Signal <https://www.wired.com/story/rural-americas-future-is-riding-on-a-cell-signal/>  
+Pew Research Center (2021): Some digital divides persist between rural, urban and suburban America <https://www.pewresearch.org/short-reads/2021/08/19/some-digital-divides-persist-between-rural-urban-and-suburban-america/>  
+
+Pick of the Week:  
+*Mystery Science Theater 3000: Invasion of the Neptune Men* <https://tubitv.com/movies/517730/mst3k-invasion-of-the-neptune-men?start=false>  
+
+Support us via [Ko-Fi](https://ko-fi.com/smkellat) and [Liberapay](https://liberapay.com/smkellat)  
+
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/644dc63c712a860011daa109?theme=light" frameBorder="0" width="100%" height="190px"></iframe>
