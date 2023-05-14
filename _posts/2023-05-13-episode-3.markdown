@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Episode 3: News & Antennae"
+date:   2023-05-13 20:20:00 -0400
+categories: podcast
+---
+This week we start off with an update on the 2023 Writers Guild of America strike before we head into a discussion of accessing the major over the air broadcast networks via streaming as well as talk about solutions for picking up antenna television.
+
+Links:  
+TechDirt: "The Writers’ Strike Makes Sense; Their Demands About AI, However, Do Not" <https://www.techdirt.com/2023/05/11/the-writers-strike-makes-sense-their-demands-about-ai-however-do-not/>  
+The AV Club: "Jeopardy! in jeopardy amid writers' strike as Mayim Bialik exits final week of hosting" <https://www.avclub.com/jeopardy-mayim-bialik-wont-host-writers-strike-1850428678>  
+Patreon alternative Ko-Fi that we use <https://ko-fi.com/smkellat>  
+Patreon alternative Liberapay that we use <https://liberapay.com/smkellat>  
+If you see something, say something <https://www.dhs.gov/see-something-say-something>  
+FCC DTV Reception Maps <https://www.fcc.gov/media/engineering/dtvmaps>  
+SiliconDust HDHomeRun <https://www.silicondust.com/hdhomerun/>
+
+Our pick of the fortnight: *Bikini Hackers* (2023) <https://tubitv.com/movies/712905/bikini-hackers?start=false>  
+
+Support us via [Ko-Fi](https://ko-fi.com/smkellat) and [Liberapay](https://liberapay.com/smkellat)  
+
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/64602c6b7583f10011a0ccdd?font-family=Exo&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DExo" frameBorder="0" width="100%" height="190px"></iframe>
