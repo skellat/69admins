@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Episode 4: Hold Still Now"
+date:   2023-05-27 22:30:00 -0400
+categories: podcast
+---
+In this episode we take a look at implementing the use of an antenna to get broadcast television.  We talk about why you still wind up with streaming television on your wireless mobile device instead of tuning in your local broadcast station.  We also mention a product of the past, FLO TV.  Reporting is also made as to the Writers Guild of America strike and the debt ceiling crisis in Washington, DC.  
+
+Links:  
+
+The AV Club: This Max credits thing is apparently gonna be a big, stupid mess to fix <https://www.avclub.com/this-max-credits-thing-is-gonna-be-a-big-stupid-mess-t-1850481840>  
+Deadline: Max Reverses Credits Display “Mistake” After DGA & WGA Blasted It As “Insulting” To Directors & Writers <https://deadline.com/2023/05/max-credits-controversy-directors-writers-guilds-1235378437/>  
+FCC DTV Reception Maps <https://www.fcc.gov/media/engineering/dtvmaps>  
+FLO TV <https://en.wikipedia.org/w/index.php?title=MediaFLO&oldid=1089633908>
+
+Our pick of the fortnight: *Australiens* (2014) <https://tubitv.com/movies/458096/australiens?start=false>  
+
+Support us via [Ko-Fi](https://ko-fi.com/smkellat) and [Liberapay](https://liberapay.com/smkellat)  
+
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2?font-family=Exo&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DExo&feed=true" frameBorder="0" width="100%" height="630px"></iframe>
