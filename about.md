@@ -10,4 +10,4 @@ This program is presented by [Stephen Michael Kellat](https://kellat.me/).  Step
 
 Production services on this program are provided by the team at Erie Looking Productions.  To find out more please visit their website at <https://erielookingproductions.info>.
 
-The site is maintained via GitHub at <https://github.com/skellat/69admins>.
+The site is earnestly maintained via GitHub at <https://github.com/skellat/69admins>.
