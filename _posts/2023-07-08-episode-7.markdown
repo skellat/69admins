@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Episode 7"
+date:   2023-07-08 00:20:00 -0400
+categories: podcast
+---
+We catch up with our planning syllabus in this episode.  Before we dive into our main topic we touch upon the current strike by the Writers Guild of America-West and how the Screen Actors Guild may join them in the week ahead in terms of being on strike.  We also discuss in the first half the misadventure of the film *Crater* and what that means for the media landscape.  After the mid-way break we talk about the differences between subscription video on-demand, ad-supported video on-demand, free ad-supported streaming television, and virtual cable providers.  We also provide our pick of the fortnight.
+
+Links:  
+Kotaku AU: "Disney Deletes Streaming Movie That Only Released In May" <https://www.kotaku.com.au/2023/07/disney-deletes-streaming-movie-that-only-released-in-may/>  
+Giant Freakin Robot: "Disney Erases New Movie From Existence After Two Months" <https://www.giantfreakinrobot.com/ent/disney-erases-new-movie.html>  
+The A.V. Club: "One of Disney's latest streaming movies had a shelf life of about 7 weeks" <https://www.avclub.com/disney-plus-removes-crater-film-after-just-7-weeks-1850605964>
+news.com.au: "Disney deletes brand new blockbuster movie from streaming platform" <https://www.news.com.au/entertainment/tv/streaming/disney-deletes-brand-new-blockbuster-movie-from-streaming-platform/news-story/4b82c72310eb8a010fabd348c81e5b82>  
+Boy Genius Report: "Disney Plus is removing shows and movies faster than we can watch them" <https://bgr.com/entertainment/disney-plus-is-removing-shows-and-movies-faster-than-we-can-watch-them/>  
+Midwest Tape <https://mwt-public-pages.midwesttape.com>  
+Shout! Factory <https://shoutfactory.com>  
+Paramount+, an example of Subscription Video On-Demand <https://www.paramountplus.com/>  
+Shout! Factory Television, an example of Ad-Supported Video On-Demand in a sort of unique niche <https://shoutfactorytv.com/>  
+The MST3K 24/7 Live Channel, an example of a Free Ad-supported Streaming Television network <https://shoutfactorytv.com/mst3k-live-24-7-channel/5ea31b6572219d00014be5e6>  
+Women's Sports Network, an example of a Free Ad-supported Streaming Television network <https://womenssports.com/>  
+owncast <https://owncast.online>  
+OpenBroadcaster <https://openbroadcaster.com/>  
+suppose.tv streaming bundle comparison tool <https://www.suppose.tv/tv>  
+The Streamable.com matchmaker <https://thestreamable.com/matchmaker>  
+
+Our pick of the fortnight: *Message From Space* (1978) <https://link.tubi.tv/ZIbLnJMYgBb>  
+
+Support us via [Ko-Fi](https://ko-fi.com/smkellat) and [Liberapay](https://liberapay.com/smkellat)  
+
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2?theme=light&font-family=Exo%202&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DExo%2B2&feed=true" frameBorder="0" width="100%" height="630px"></iframe>
