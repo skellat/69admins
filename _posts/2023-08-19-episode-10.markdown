@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 10: Systemic Risk"
-date:   2023-08-19 22:00:00 -0400
+date:   2023-08-19 21:40:00 -0400
 categories: podcast
 ---
 We detour heavily from the planning syllabus to take a look at the situation in Hollywood.  The strikes have now gone past the hundred day mark.  Economic strains are beginning to develop.  It doesn't make much sense for us to talk about paid subscription streaming services when the companies that own them are not exactly in the best of financial health.
