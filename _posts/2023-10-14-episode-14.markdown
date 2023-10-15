@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 14: Stubborn Negotiators"
-date:   2023-10-15 20:50:00 -0400
+date:   2023-10-14 20:50:00 -0400
 categories: podcast
 ---
 This episode is a very quick one recapping news and announcing that we are on hiatus beginning with the release of this episode and lasting until the release of our New Year's Day 2024 Special.
