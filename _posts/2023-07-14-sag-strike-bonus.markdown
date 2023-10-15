@@ -15,7 +15,7 @@ Comic Shop Locator <https://comicshoplocator.com/>
 *Screen Rant* "I Kept My Day Job": Orange Is The New Black Stars Open Up On Being Underpaid By Netflix <https://screenrant.com/orange-is-the-new-black-show-actors-pay-netflix-response/>  
 
 
-Our pick of the fortnight: *The Hebrew Hammer* (2003) <https://tubitv.com/movies/571569/the-hebrew-hammer>  
+Our pick of the fortnight: *The Hebrew Hammer* (2003) <https://tubitv.com/movies/571569/the-hebrew-hammer?start=false>  
 
 Support us via [Ko-Fi](https://ko-fi.com/smkellat) and [Liberapay](https://liberapay.com/smkellat)  
 
