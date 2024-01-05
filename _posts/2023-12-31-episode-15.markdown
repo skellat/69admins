@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 15: And We're Back!"
-date:   2023-10-14 20:50:00 -0500
+date:   2023-12-31 20:50:00 -0500
 categories: podcast
 ---
 New Year's Day 2024 Special?  What New Year's Day 2024 Special?  We're back for *New Year's Eve 2023* instead!  
