@@ -21,4 +21,4 @@ Our second pick of the fortnight: DW TV <https://www.dw.com/en/live-tv/channel-e
 
 Support us via [Ko-Fi](https://ko-fi.com/smkellat) and [Liberapay](https://liberapay.com/smkellat)  
 
-<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/64e16e76a136c9001123efdb?font-family=Exo%202&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DExo%2B2" frameBorder="0" width="100%" height="190px"></iframe>
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/64e16e76a136c9001123efdb?font-family=Quattrocento&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuattrocento" frameBorder="0" width="100%" height="190px"></iframe>

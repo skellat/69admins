@@ -19,4 +19,4 @@ Our pick of the fortnight: *Flashpoint* (2008-2012) <https://pluto.tv/en/on-dema
 
 Support us via [Ko-Fi](https://ko-fi.com/smkellat) and [Liberapay](https://liberapay.com/smkellat)  
 
-<iframe src="https://embed.acast.com/6410a80dec813e00110faed2?font-family=Exo%202&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DExo%2B2&feed=true" frameBorder="0" width="100%" height="630px"></iframe>  
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2?font-family=Quattrocento&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuattrocento&feed=true" frameBorder="0" width="100%" height="630px"></iframe>  
