@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 18: Madly Off In All Directions"
-date:   2024-02-11 00:01:00 -0500
+date:   2024-02-10 21:39:00 -0500
 categories: podcast
 ---
 In this episode we look at a potpourri of news.
@@ -19,11 +19,10 @@ Vatican Radio <https://www.vaticannews.va/en.html>
 UN Web TV <https://webtv.un.org/en>  
 Suppose.tv <https://www.suppose.tv/>  
 
-
 Our pick of the fortnight: [Undersea Kingdom](https://tubitv.com/movies/100005375/undersea-kingdom?autoplay=false)
 
 Support us via [Ko-Fi](https://ko-fi.com/smkellat) and [Liberapay](https://liberapay.com/smkellat)  
 
 Directly download the episode here: [MP3](https://open.acast.com/public/streams/6410a80dec813e00110faed2/episodes/65c8213ee6a39e0017e22f9e.mp3)  
 
-<iframe src="https://embed.acast.com/6410a80dec813e00110faed2?font-family=Quattrocento&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuattrocento&feed=true" frameBorder="0" width="100%" height="630px"></iframe>
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/65c8213ee6a39e0017e22f9e?font-family=Quattrocento&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuattrocento" frameBorder="0" width="100%" height="190px"></iframe>
