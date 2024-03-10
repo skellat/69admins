@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Episode 20: Welcome To The Now"
+date:   2024-03-09 21:20:00 -0500
+categories: podcast
+---
+In this episode we look at a danger from Generative Artificial Intelligence and how that might impact streaming television news
+
+Links:  
+
++ *Center for Countering Digital Hate* Fake Image Factories <https://counterhate.com/research/fake-image-factories/>  
++ *Vice*  AI Political Ads Are Here, and No One Knows How to Handle Them <https://web.archive.org/web/20231101174038/https://www.vice.com/en/article/epvxn7/ai-political-ads-republicans-biden>  
++ *Vox* “Flood the zone with ******”: How misinformation overwhelmed our democracy  <https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation>   
++ *Ars Technica* Rooster Teeth, home of Red Vs. Blue and RWBY, shutting down after 21 years <https://arstechnica.com/culture/2024/03/red-vs-blue-studio-rooster-teeth-is-being-shut-down-by-wb-discovery/>   
+
+Our pick of the fortnight: [12 to the Moon](https://tubitv.com/movies/609112/12-to-the-moon?autoplay=false)
+
+Support us via [Ko-Fi](https://ko-fi.com/smkellat), [Liberapay](https://liberapay.com/smkellat), and [Patreon](patreon.com/erielookingproductions)    
+
+Directly download the episode here: [MP3](https://open.acast.com/public/streams/6410a80dec813e00110faed2/episodes/65ed1a510d31050017f5de7a.mp3)  
+
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/65ed1a510d31050017f5de7a?font-family=Exo%202&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DExo%2B2" frameBorder="0" width="100%" height="190px"></iframe>
