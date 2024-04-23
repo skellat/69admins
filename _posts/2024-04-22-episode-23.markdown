@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Episode 23: The Misplaced Episode"
+date:   2024-04-22 20:10:00 -0400
+categories: podcast
+---
+Sometimes episode get misplaced and do not get released when they were supposed to be released.  This is one of those episodes.  
+
+In this episode we talk about the unexpected launch of a new streaming service.
+
+Links:  
+
++ *IndieWire via Yahoo Finance* What the Hell Does Sony Want with Paramount? <https://finance.yahoo.com/news/hell-does-sony-want-paramount-165426797.html>  
++ */dev/jasmin* Analysing the source code of Truth Social <https://jasminchen.dev/2024/analysing-the-source-code-of-truth-social/>  
++ *TMTG* Truth Social to Launch Streaming Platform  <https://web.archive.org/web/20240418185240/https://www.globenewswire.com/news-release/2024/04/16/2863484/0/en/Truth-Social-to-Launch-Streaming-Platform.html>  
+
+Our pick of the fortnight: [Scripps News](https://scrippsnews.com/where-to-watch/)
+
+Support us via [Ko-Fi](https://ko-fi.com/smkellat), [Liberapay](https://liberapay.com/smkellat), and [Patreon](https://patreon.com/erielookingproductions)  
+
+Directly download the episode here: [MP3](https://open.acast.com/public/streams/6410a80dec813e00110faed2/episodes/6626fef97fb19e001283e356.mp3)  
+
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/6626fef97fb19e001283e356?font-family=Exo%202&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DExo%2B2" frameBorder="0" width="100%" height="190px"></iframe>
