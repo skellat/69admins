@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Episode 26: Parties Unknown"
+date:   2024-06-01 20:30:00 -0400
+categories: podcast
+---
+The episode this fortnight reviews the news.  In the shadow of the conviction of Donald John Trump by a court in New York City life has been getting weird in America.  We try to puzzle through news together.
+
+Links:  
+
++ *Ars Technica* Mystery malware destroys 600,000 routers from a single ISP during 72-hour span <https://arstechnica.com/security/2024/05/mystery-malware-destroys-600000-routers-from-a-single-isp-during-72-hour-span/>  
++ *TechRadar* Political ads made with generative AI must be labelled, says FCC <https://www.techradar.com/pro/security/political-ads-made-with-generative-ai-must-be-labelled-fcc-proposes>
++ *VICE News* AI Political Ads Are Here, and No One Knows How to Handle Them <https://www.vice.com/en/article/epvxn7/ai-political-ads-republicans-biden>
++ An example of "Outlaw Trump" on BlueSky <https://bsky.app/profile/rincewind.run/post/3ktvcsgsacs2a>
++ *Critical Role Productions* State of the Role: Announcing Beacon! Our New Membership Service <https://youtu.be/A8E6D-rW4dE>
+
+Our pick of the fortnight: [Role To Cast](https://www.youtube.com/@RoletoCast)
+
+Support us via [Ko-Fi](https://ko-fi.com/smkellat), [Liberapay](https://liberapay.com/smkellat), and [Patreon](https://patreon.com/erielookingproductions)  
+
+Directly download the episode here: [MP3](https://open.acast.com/public/streams/6410a80dec813e00110faed2/episodes/665bbe5de9a5580011ab80f2.mp3)
+
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/665bbe5de9a5580011ab80f2?font-family=Exo%202&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DExo%2B2" frameBorder="0" width="100%" height="190px"></iframe>
