@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 26: And Now The News..."
+title:  "Episode 27: And Now The News..."
 date:   2024-06-16 22:25:25 -0400
 categories: podcast
 ---
