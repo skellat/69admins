@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Episode 36: Well That Is Ominous"
+date:   2024-10-27 14:01:01 -0400
+categories: podcast
+---
+In this episode we read out two cybersecurity statements from the federal government and talk about the implications of some threats made by Donald Trump.  If he gets elected we may wind up with a much, much smaller landscape of streaming services.
+
+Links:  
+
++ Joint ODNI, FBI, and CISA Statement <https://www.cisa.gov/news-events/news/joint-odni-fbi-and-cisa-statement-0>
++ Joint Statement by FBI and CISA on PRC Activity Targeting Telecommunications <https://www.cisa.gov/news-events/news/joint-statement-fbi-and-cisa-prc-activity-targeting-telecommunications>
++ Trump’s growing threats to strip broadcast licenses send chills across industry <https://lite.cnn.com/2024/10/22/media/trump-strip-tv-station-licenses-punish-media/index.html>  
++ List of streaming media services <https://en.wikipedia.org/w/index.php?title=List_of_streaming_media_services&oldid=1253713023>  
++ List of conspiracy theories promoted by Donald Trump <https://en.wikipedia.org/wiki/List_of_conspiracy_theories_promoted_by_Donald_Trump>  
+
+Our  pick of the fortnight: [Space Patrol](https://tubitv.com/series/300010028/space-patrol)  
+
+Support us via [Ko-Fi](https://ko-fi.com/smkellat), [Liberapay](https://liberapay.com/smkellat), and [Patreon](https://patreon.com/erielookingproductions)  
+
+We proudly support the [No Latency](https://nolatencypodcast.com/) actual play podcast for the *Cyberpunk: Red* gaming system and so should you.  
+
+Directly download the episode here: [MP3](https://open.acast.com/public/streams/6410a80dec813e00110faed2/episodes/671e8503df525fe121546803.mp3)
+
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/671e8503df525fe121546803?font-family=SUSE&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSUSE" frameBorder="0" width="100%" height="190px"></iframe>
