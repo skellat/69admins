@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Episode 37: Taking Detours"
+date:   2024-11-10 19:51:01 -0500
+categories: podcast
+---
+Wasn't that a [fun election](https://simple.wikipedia.org/w/index.php?title=2024_United_States_presidential_election&oldid=9874529)?  In this episode we talk about making your own streaming outlet in the new political time to come.
+
+Links:  
+
++ OpenBroadcaster <https://openbroadcaster.com/company/about-us/>
++ OwnCast <https://owncast.online/>
++ *The Verge* JD Vance thinks monarchists have some good ideas <https://www.theverge.com/2024/10/16/24266512/jd-vance-curtis-yarvin-influence-rage-project-2025>
++ *TechRadar* The death of the internet: why the future is terrifying, and how we fix it <https://www.techradar.com/computing/internet/the-death-of-the-internet-why-the-future-is-terrifying-and-how-we-fix-it>
++ Dark Enlightenment <https://en.wikipedia.org/w/index.php?title=Dark_Enlightenment&oldid=1255453846>
+
+Our  pick of the fortnight: [Whose Line Is It Anyway? Australia](https://tubitv.com/series/300010044/whose-line-is-it-anyway-australia)  
+
+Support us via [Ko-Fi](https://ko-fi.com/smkellat), [Liberapay](https://liberapay.com/smkellat), and [Patreon](https://patreon.com/erielookingproductions)  
+
+We proudly support the [No Latency](https://nolatencypodcast.com/) actual play podcast for the *Cyberpunk: Red* gaming system and so should you.  
+
+Directly download the episode here: [MP3](https://open.acast.com/public/streams/6410a80dec813e00110faed2/episodes/67315b5d1f785cb57145178d.mp3)
+
+<iframe src="https://embed.acast.com/6410a80dec813e00110faed2/67315b5d1f785cb57145178d?font-family=SUSE&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSUSE" frameBorder="0" width="100%" height="190px"></iframe>
